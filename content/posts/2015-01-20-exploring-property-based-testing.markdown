@@ -1,6 +1,7 @@
 ---
 title: "Exploring Property-based Testing"
 date: 2015-01-20T19:19:00-07:00
+tags: ["programming", "clojure"]
 ---
 
 **Prerequisite** If you haven't watched a

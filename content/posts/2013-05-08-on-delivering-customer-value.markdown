@@ -1,6 +1,7 @@
 ---
 title: "On Delivering Customer Value"
 date: 2013-05-08T17:02:00-07:00
+tags: ["product"]
 ---
 
 I am presently working on a pre-1.0 software product at VMware. It's exciting
