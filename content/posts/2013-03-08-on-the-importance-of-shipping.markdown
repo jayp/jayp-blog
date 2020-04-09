@@ -1,6 +1,7 @@
 ---
 title: "On the importance of shipping"
 date: 2013-03-08T17:59:00-07:00
+tags: ["product"]
 ---
 
 Earlier today, our team was discussing a newly implemented feature during our

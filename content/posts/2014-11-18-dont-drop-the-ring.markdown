@@ -1,6 +1,7 @@
 ---
 title: "Don't drop the ring"
 date: 2014-11-18T20:30:00-07:00
+tags: ["programming", "clojure"]
 ---
 
 If you are a Clojure newbie ("noob") like myself, you may run into this issue.
