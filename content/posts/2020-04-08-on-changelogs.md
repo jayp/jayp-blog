@@ -1,5 +1,5 @@
 ---
-title: Public changelogs keeps us moving fast 🏃‍♀️🚀
+title: A changelog keeps us moving fast 🏃‍♀️🚀
 date: 2020-04-08T13:43:43-07:00
 tags: ["product"]
 ---
@@ -8,7 +8,7 @@ Neel and I started working on [Herald](https://www.heraldhq.com) in December 201
 
 From then on, we've maintained a [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c) that Neel updates every week.
 
-{{< fig src="/herald-changelog.png" caption="A screenshot of the Herald changelog"
+{{< fig2 src="/herald-changelog.png" caption="A screenshot of the Herald changelog"
 link="https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c" >}}
 
 ### Cost of Changelogs
