@@ -1,7 +1,10 @@
 ---
 title: A weekly changelog makes us go fast 🏃‍♂️
-date: 2020-04-08T13:43:43-07:00
+date: 2020-04-09
 tags: ["product"]
+images:
+ - /herald-changelog.png
+description: Given that as a super early stage startup that's always stretched for time, we often wondered **why do we maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
 ---
 
 Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd. From then on, we've maintained a weekly [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c).

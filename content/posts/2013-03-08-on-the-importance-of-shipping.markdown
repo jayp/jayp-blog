@@ -1,6 +1,6 @@
 ---
 title: On the importance of shipping
-date: 2013-03-08T17:59:00-07:00
+date: 2013-03-08
 tags: ["product"]
 ---
 
