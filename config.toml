@@ -57,3 +57,8 @@ theme = "hyde-hyde"
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "Herald"
+    identifier = "herald"
+    weight = 300
+    url = "https://www.heraldhq.com"
