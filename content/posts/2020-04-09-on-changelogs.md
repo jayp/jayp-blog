@@ -3,8 +3,8 @@ title: A weekly changelog makes us go fast 🏃‍♂️
 date: 2020-04-09
 tags: ["product"]
 images:
- - /herald-changelog.png
-description: Given that as a super early stage startup that's always stretched for time, we often wondered **why do we maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
+  - /herald-changelog.png
+description: Given that as a super early stage startup, we're frequently stretched thin, we often wondered **does it make sense to maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
 ---
 
 Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd. From then on, [we've maintained a weekly changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c).
@@ -16,15 +16,15 @@ As you may notice, our changelog is nothing fancy - just a simple Notion documen
 
 - Date of update (always a Friday so far) along with a brief theme of the weekly changes.
 - Details on the top 2-3 changes alongside a video/photo artifact exhibiting the change.
-- A "Bug Fixes & Other Improvements" section with less important changes. We aim to provide details succintly here.
+- A "Bug Fixes & Other Improvements" section with less important changes. We aim to provide details succinctly here.
 
-Every two weeks, we also rollup the changes for the past two updates and send out an email to our users.
+Every two weeks, we also roll up the changes for the past two updates and send out an email to our users.
 
-As you can imagine, producing the changelog is a fairly taxing task: planning and completing the work, and producing the copy and any associated artifacts demontrating usage. Given that as a super early stage startup that's always stretched for time, we often wondered **why do we maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
+As you can imagine, producing the changelog is a fairly taxing task: planning and completing the work, and producing the copy and any associated artifacts demonstrating usage. Given that as a super early stage startup, we're frequently stretched thin, we often wondered **does it make sense to maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
 
 ### Cost of Changelogs
 
-Maintaining a changelog _mostly_ requires maintaining a regular cadence. Otherwise, it is too easy to skip it "just this once". As such, we picked a weekly cadence -- which requires us to _**ship some user-facing changes every week**_. This requirement can often be a downside when the right thing to do is to hunker down and solve a larger customer problem. Worse, maybe the best thing that week may not even be feature development but an infrastructure change, or maybe even non-product work like sales or marketing. In other words, a weekly changelog basically forces us to do product work every week even if it's not the best thing for that week.
+Maintaining a changelog _mostly_ required us to agree to a regular cadence. Otherwise, it would've been too easy to skip it "just this once". As such, we picked a weekly cadence -- which forces us to _**ship some user-facing changes every week**_. This requirement can actually be a major downside when the right thing to do is to hunker down and solve a larger customer problem. Worse, maybe the best thing that week may not even be feature development but an infrastructure change, or maybe even non-product work like sales or marketing. In other words, a weekly changelog basically forces us to do product work every week even if it's not the best thing for that week.
 
 {{<note Disclaimer>}}
 A dogmatic publishing cadence is not a requirement for a good changelog. It
