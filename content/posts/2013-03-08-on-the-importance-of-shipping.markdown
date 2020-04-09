@@ -1,5 +1,5 @@
 ---
-title: "On the importance of shipping"
+title: On the importance of shipping
 date: 2013-03-08T17:59:00-07:00
 tags: ["product"]
 ---
@@ -14,14 +14,12 @@ fixing the root cause. Unfortunately, the new configuration knob now brought
 this limitation to the forefront.
 
 Our team manager proclaimed that the restart limitation was "embarrassingly
-bad." *And, indeed, it was.* However, before anyone could delve any further on
+bad." _And, indeed, it was._ However, before anyone could delve any further on
 this, a colleague aptly responded with the following lean development mantra:
 
-{% blockquote Reid Hoffman, LinkedIn Founder %}
-
-If you are not embarrassed by the first version of your product, you've launched too late.
-
-{% endblockquote %}
+> If you are not embarrassed by the first version of your product, you've launched too late.
+>
+> Reid Hoffman, LinkedIn Founder
 
 Without any further discussion, everyone realized that it was acceptable --
 maybe even expected -- to be embarrassed by our first release.

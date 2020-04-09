@@ -4,16 +4,16 @@ date: 2020-04-08T13:43:43-07:00
 tags: ["product"]
 ---
 
-Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd. From then on, we've maintained a weekly [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c). As you may have noticed, our changelog is maintained as a simple Notion document.
+Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd. From then on, we've maintained a weekly [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c). As you may notice, our changelog is nothing fancy - just a simple Notion document.
 
 {{< fig2 src="/herald-changelog.png" caption="A screenshot of the Herald changelog"
 link="https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c" >}}
 
-Producing the changelog is a fairly involved task: planning and completing the work, producing the copy and any associated usage videos or screenshots, etc. Given that as a super early stage startup that's always stretched for time, **why do maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
+Producing the changelog is a fairly involved task: planning and completing the work, and producing the copy and any associated artifacts demontrating usage. Given that as a super early stage startup that's always stretched for time, we often wondered **why do we maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
 
 ### Cost of Changelogs
 
-Maintaining a changelog _mostly_ requires maintaining a regular cadence. Otherwise, it is too easy to skip it "just this once". But a fixed cadence also requires us to ship some user-facing change every week. This is a clear downside: often, the better long-term thing to do hunker down and solve a larger problem. Worse, maybe that week we shouldn't even be focusing on product development but on infrastructure changes, or even non-engineering work like sales or marketing.
+Maintaining a changelog _mostly_ requires maintaining a regular cadence. Otherwise, it is too easy to skip it "just this once". And a fixed cadence requires us to _**ship some user-facing change every week**_. This is often a downside when the better long-term thing to do is to hunker down and solve a larger customer problem than can be done in a week. Worse, maybe the best thing that week may not even be product development but an infrastructure change, or maybe even non-engineering work like sales or marketing. In other words, a changelog basically forces us to do product work every week whether we think that's the best thing or not.
 
 {{<note>}}
 A dogmatic publishing cadence is not a requirement for a good changelog. It
@@ -24,15 +24,14 @@ has one.
 
 An alternative to a dedicated changelog is to simply use the company's blog
 to write about major product updates whenever they occur. With this approach,
-there is no need to align to a fixed cadence. This has another huge benefit —
-we have the flexibility to work on bigger and bolder challenges that
-may not be shippable in a fixed amount of time.
+there is no need to align to a fixed update cadence providing the flexibility
+to work on bigger and bolder challenges that may not be shippable in a week.
 
 So, **is a dedicated changelog too much work with plenty of downsides?**
 
 ### Benefits of Changelogs
 
-At this point, after maintaining a changelog for the last 3 months, I'd have to say that we've gained tremendously from having a changelog. We continue to maintain our changelog at a weekly cadence today and plan to do it for as long as possible. The two primary benefits we're getting out of our changelog are the following:
+At this point, after maintaining a changelog for the last 3 months, I'd have to say that it's a large net positive. We continue to maintain our changelog at a weekly cadence today and _**plan to do it for as long as possible**_. The two primary benefits we're getting out of our changelog are the following:
 
 - **Accountability**: Make sure we ship at least two customer-facing product
   features every week. As a young startup, we wanted our product iterations to
@@ -52,7 +51,7 @@ At this point, after maintaining a changelog for the last 3 months, I'd have to 
 
 It's still early days for us at Herald, but we are totally loving using the changelog as a mechanism to plan our weekly sprints. You may have noticed that I didn't even mention that the changelog informs our users about new changes as a benefit— **it is just an added bonus** and not the primary motivating factor. Our most engaged users check our changelog religiously and provide us earnest feedback, which we obviously save in our dogfood instance of [Herald](https://www.heraldhq.com).
 
-### An Observation: The Rise of Changelogs
+### An Observation: The Fall and Rise of Changelogs
 
 Historically, changelogs were a given for all software — as software needed
 to be installed on a customer's computer. They informed users about the

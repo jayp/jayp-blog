@@ -1,5 +1,5 @@
 ---
-title: "Exploring Property-based Testing"
+title: Exploring property-based testing
 date: 2015-01-20T19:19:00-07:00
 tags: ["programming", "clojure"]
 ---
@@ -15,20 +15,20 @@ testing in finding hard-to-discover bugs.
 describes the core idea behind property-based testing:
 
 > Instead of enumerating expected input and output for unit tests, you write
-properties about your function that should hold true for all inputs. This lets
-you write concise, powerful tests.
+> properties about your function that should hold true for all inputs. This lets
+> you write concise, powerful tests.
 
 If I had to summarize my understanding about property-based testing frameworks,
 it would be as such:
 
-* Input data is randomly generated using composable and extensible generators.
-* Output data is validated against invariant properties of the target function.
-* A user-controlled knob can limit how extensive the testing needs to be, i.e.,
+- Input data is randomly generated using composable and extensible generators.
+- Output data is validated against invariant properties of the target function.
+- A user-controlled knob can limit how extensive the testing needs to be, i.e.,
   how many times to test the function with randomly generated data -- hundreds
   of times, thousands of times, millions of times, etc.
-* The framework is intelligent enough to generate simple test cases first, and
+- The framework is intelligent enough to generate simple test cases first, and
   gradually grow the complexity of input data as early tests pass.
-* When an output violates the property invariant, the framework tries to shrink
+- When an output violates the property invariant, the framework tries to shrink
   the input set to a minimal input set for which the invariant property is
   still violated. Often, the shrunk input will help directly pinpoint the root
   cause of invariant violation. When this works, one maybe reminded of
@@ -82,10 +82,10 @@ to the [Making Change](http://craftsmanship.sv.cmu.edu/katas/making-change)
 "kata":
 
 > After writing a few Simple-check [now renamed test.check] tests, I was stuck.
-I knew the specific case I was trying to describe—changing 80 cents with
-denominations of 25, 20, and 1 should return four 20 cent coins instead of
-three quarters and five pennies—but I was left scratching my head when I tried
-to generalize it.
+> I knew the specific case I was trying to describe—changing 80 cents with
+> denominations of 25, 20, and 1 should return four 20 cent coins instead of
+> three quarters and five pennies—but I was left scratching my head when I tried
+> to generalize it.
 
 I attempt to provide a solution to the problem of writing generalized test
 specs for the Making Change kata next.
