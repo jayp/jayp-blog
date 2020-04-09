@@ -1,6 +1,6 @@
 baseURL = "https://jay.patel.org.in/"
 languageCode = "en-us"
-title = "Jay Patel"
+title = "Jay A. Patel"
 
 # theme = "ananke"
 # MetaDataFormat = "yaml"
@@ -38,9 +38,9 @@ theme = "hyde-hyde"
    tag = "tags"
 ## Site Settings
 [params]
-    # author = "Jay A. Patel"
+    author = "Jay A. Patel"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    # authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
 [params.social]
 	twitter = "jayisms"
