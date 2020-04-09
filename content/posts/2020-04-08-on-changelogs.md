@@ -69,5 +69,5 @@ accompanied upgrades. However, with the rise of SaaS and recurring revenue
 models, the monetary reasons for maintaining a changelog no longer hold. As
 such, we've seen a decline of dedicated changelogs with the rise of SaaS.
 
-However, a new breed of SaaS companies are producing are going back to maintaining a dedicated changelog. Some of my favorites changelogs are: [Notion](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c), [Linear](https://linear.app/changelog), [Tandem](https://www.notion.so/Tandem-Product-Updates-618030187c7843a78ba76ada4f54bd01), and [OpenPhone](https://updates.openphone.co/). I am always looking to read and learn from good changelogs -- [let me know](https://www.twitter.com/jayisms) if
+However, a new breed of SaaS companies are producing are going back to maintaining a dedicated changelog. Some of my favorites changelogs are: [Notion](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c), [Linear](https://linear.app/changelog), [Tandem](https://www.notion.so/Tandem-Product-Updates-618030187c7843a78ba76ada4f54bd01), and [OpenPhone](https://updates.openphone.co/). I am always looking to read and learn from good changelogs -- [let me know](https://twitter.com/jayisms/status/1248095505575342080) if
 you know of a good one.
