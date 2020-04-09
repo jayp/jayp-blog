@@ -4,18 +4,16 @@ date: 2020-04-08T13:43:43-07:00
 tags: ["product"]
 ---
 
-Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd.
-
-From then on, we've maintained a [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c) that Neel updates every week.
+Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd. From then on, we've maintained a weekly [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c). As you may have noticed, our changelog is maintained as a simple Notion document.
 
 {{< fig2 src="/herald-changelog.png" caption="A screenshot of the Herald changelog"
 link="https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c" >}}
 
+Producing the changelog is a fairly involved task: planning and completing the work, producing the copy and any associated usage videos or screenshots, etc. Given that as a super early stage startup that's always stretched for time, **why do maintain this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
+
 ### Cost of Changelogs
 
-Producing the changelog is a fairly involved task: planning and completing the work, producing the copy and any associated usage videos or screenshots, etc. Given that as a super early stage startup that's always stretched for time, **why did we start this changelog?** This was especially a big question early on, when we only had one customer and it could've been far easier to just show them any changes.
-
-Furthermore, maintaining a changelog _almost_ requires the forcing function of a regular cadence. Otherwise, it is too easy to skip it "just this once". But a fixed cadence also forces us to make progress on the product by shipping something in a fixed time window when the better long-term solution might be to take more time to build a more robust feature.
+Maintaining a changelog _mostly_ requires maintaining a regular cadence. Otherwise, it is too easy to skip it "just this once". But a fixed cadence also requires us to ship some user-facing change every week. This is a clear downside: often, the better long-term thing to do hunker down and solve a larger problem. Worse, maybe that week we shouldn't even be focusing on product development but on infrastructure changes, or even non-engineering work like sales or marketing.
 
 {{<note>}}
 A dogmatic publishing cadence is not a requirement for a good changelog. It
@@ -42,7 +40,7 @@ At this point, after maintaining a changelog for the last 3 months, I'd have to 
 - **Iterate with Customers**: A short window to get new features out means
   that we do not have the luxury to come up with grand plans, execute them,
   then reveal it to our customers. From our previous experiences (and
-  failures), we've learnt that we were suckers for grand plans that didn't pan
+  failures), we've learnt that we are suckers for grand plans that don't pan
   out. With the current model, we descope feature work to something we can ship
   in a max of two days. Often, it means shipping half-baked features, but it
   still seems to be working for us. Most customers don't engage with new
