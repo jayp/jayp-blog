@@ -1,5 +1,5 @@
 ---
-title: "Don't drop the ring"
+title: Don't drop the ring
 date: 2014-11-18T20:30:00-07:00
 tags: ["programming", "clojure"]
 ---
@@ -30,13 +30,13 @@ user=>
 
 I was perplexed. I tried to investigate the changes I made. Using git, I even
 went back to a prior commit which I knew worked. But I was unable to get the
-webapp to start. What the &$#!@ was going on?
+webapp to start. What the &\$#!@ was going on?
 
 As such, I unziped the jar file and took a look at the META-INF/MANIFEST.MF
 file. The Main-Class value was: clojure.main. Grr!
 
 Long story short: I traced back my bash history and noticed that I had dropped
-the ring!  Of course, the command to generate a deployable webapp is the
+the ring! Of course, the command to generate a deployable webapp is the
 following:
 
 ```
@@ -44,4 +44,3 @@ $ lein ring uberjar
 ```
 
 So, fellow Clojure noobs, the lesson is: don't drop the ring!
-
