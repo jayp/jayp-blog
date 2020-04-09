@@ -4,9 +4,9 @@ date: 2020-04-08T13:43:43-07:00
 tags: ["product"]
 ---
 
-Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback.](https://www.heraldhq.com). Working feverishly, we got the MVP in the hands of our first customer in the first week of January.
+Neel and I started working on [Herald](https://www.heraldhq.com) in December 2019. It's [the best space for teams to collect, analyze, and collaborate on user feedback](https://www.heraldhq.com). Working feverishly over the winter break, we got the MVP in the hands of our first customer in on January 2nd.
 
-From then on, we've maintained a [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c) that Neel updates every week. We continue to maintain this cadence today and plan to do it for as long as possible.
+From then on, we've maintained a [changelog](https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c) that Neel updates every week.
 
 {{< fig src="/herald-changelog.png" caption="A screenshot of the Herald changelog"
 link="https://www.notion.so/herald/What-s-New-2f90a8e462da42758878e34bb5a3371c" >}}
@@ -30,11 +30,11 @@ there is no need to align to a fixed cadence. This has another huge benefit —
 we have the flexibility to work on bigger and bolder challenges that
 may not be shippable in a fixed amount of time.
 
-So, **is a dedicated changelog too much work and plenty of downsides?**
+So, **is a dedicated changelog too much work with plenty of downsides?**
 
 ### Benefits of Changelogs
 
-Ultimately, we decided to have a changelog for two primary reasons:
+At this point, after maintaining a changelog for the last 3 months, I'd have to say that we've gained tremendously from having a changelog. We continue to maintain our changelog at a weekly cadence today and plan to do it for as long as possible. The two primary benefits we're getting out of our changelog are the following:
 
 - **Accountability**: Make sure we ship at least two customer-facing product
   features every week. As a young startup, we wanted our product iterations to
@@ -52,12 +52,9 @@ Ultimately, we decided to have a changelog for two primary reasons:
   don't even end up using the feature, we can just cut it out from the product
   and be at peace with the time saved.
 
-It's still early days for us at Herald, but we are totally loving using the
-changelog as a mechanism to plan our weekly sprints. You may have noticed that I
-didn't even mention that the changelog informs our users about new changes as
-a benefit— **it is just an added bonus** and not the primary motivating factor.
+It's still early days for us at Herald, but we are totally loving using the changelog as a mechanism to plan our weekly sprints. You may have noticed that I didn't even mention that the changelog informs our users about new changes as a benefit— **it is just an added bonus** and not the primary motivating factor. Our most engaged users check our changelog religiously and provide us earnest feedback, which we obviously save in our dogfood instance of [Herald](https://www.heraldhq.com).
 
-### The Rise and Fall and Rise Again of Changelogs
+### An Observation: The Rise of Changelogs
 
 Historically, changelogs were a given for all software — as software needed
 to be installed on a customer's computer. They informed users about the
