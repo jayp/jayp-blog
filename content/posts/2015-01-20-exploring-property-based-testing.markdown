@@ -1,6 +1,6 @@
 ---
 title: Exploring property-based testing
-date: 2015-01-20T19:19:00-07:00
+date: 2015-01-20
 tags: ["programming", "clojure"]
 ---
 

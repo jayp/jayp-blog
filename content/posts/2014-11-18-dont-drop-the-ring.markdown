@@ -1,6 +1,6 @@
 ---
 title: Don't drop the ring
-date: 2014-11-18T20:30:00-07:00
+date: 2014-11-18
 tags: ["programming", "clojure"]
 ---
 

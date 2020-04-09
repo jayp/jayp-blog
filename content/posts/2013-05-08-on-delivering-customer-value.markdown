@@ -1,6 +1,6 @@
 ---
 title: Delivering customer value
-date: 2013-05-08T17:02:00-07:00
+date: 2013-05-08
 tags: ["product"]
 ---
 
