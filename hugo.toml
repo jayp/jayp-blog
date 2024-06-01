@@ -1,0 +1,27 @@
+baseURL = "https://jay.patel.org.in/"
+languageCode = "en-us"
+title = "Jay A. Patel"
+
+theme = "hyde-hyde"
+[taxonomies]
+   tag = "tags"
+## Site Settings
+[params]
+    author = "Jay A. Patel"
+    # description = "..."
+    # authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+[params.social]
+	github = "jayp"
+	linkedin = "jayisms"
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
